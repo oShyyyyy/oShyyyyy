@@ -38,7 +38,7 @@
 
 * [Portfolio Site](https://osheep.likes-femboys.lol)
 
-
+ 
 <a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
 ---
@@ -46,40 +46,11 @@
 ### :hammer_and_wrench: Languages and Tools 
 
 <div>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<circle cx="24" cy="25" r="14" fill="#1565c0"></circle><path d="M22.531,44.942l-0.182-0.015c-1.654-0.125-3.365-0.485-5-1.061l0.664-1.887c1.471,0.518,3.011,0.842,4.578,0.964 L22.531,44.942z M27.665,44.666l-0.363-1.967c1.54-0.285,3.041-0.775,4.461-1.455l0.865,1.803 C31.049,43.804,29.379,44.349,27.665,44.666z M12.695,41.502c-1.438-0.987-2.745-2.16-3.883-3.488l1.52-1.301 c1.023,1.195,2.199,2.252,3.494,3.141L12.695,41.502z M37,40.199l-1.301-1.52c1.196-1.023,2.254-2.198,3.144-3.492l1.648,1.133 C39.503,37.758,38.328,39.062,37,40.199z M5.961,33.646c-0.758-1.577-1.304-3.247-1.624-4.962l1.967-0.366 c0.287,1.542,0.778,3.043,1.46,4.461L5.961,33.646z M42.861,31.669l-1.887-0.664c0.521-1.478,0.847-3.024,0.97-4.597l1.003,0.005 l0.997,0.08l-0.006,0.075C43.802,28.311,43.439,30.028,42.861,31.669z M6.056,23.592L4.059,23.47l0.004-0.04 c0.135-1.731,0.493-3.437,1.064-5.064l1.887,0.662C6.501,20.493,6.178,22.028,6.056,23.592z M41.69,21.649 c-0.292-1.543-0.786-3.043-1.47-4.458l1.801-0.87c0.76,1.574,1.31,3.242,1.634,4.958L41.69,21.649z M9.138,14.84l-1.65-1.13 c0.985-1.438,2.157-2.746,3.484-3.885l1.303,1.518C11.079,12.368,10.024,13.545,9.138,14.84z M37.646,13.261 c-1.027-1.194-2.205-2.248-3.501-3.134l1.129-1.651c1.439,0.984,2.747,2.155,3.888,3.48L37.646,13.261z M16.205,8.772L15.338,6.97 c1.575-0.759,3.243-1.307,4.958-1.628l0.369,1.966C19.123,7.597,17.622,8.09,16.205,8.772z M29.955,8.008 c-1.461-0.511-2.99-0.831-4.547-0.953l0.023-1.001l0.079-0.997l-0.079,0.997l0.11-0.995c1.75,0.137,3.45,0.494,5.073,1.061 L29.955,8.008z"></path><circle cx="28.5" cy="18.5" r="4.5" fill="#fff"></circle><circle cx="37.5" cy="9.5" r="4.5" fill="#1565c0"></circle><polygon fill="#fff" points="19,33 14,33 14,24 15,24 15,32 19,32"></polygon><path fill="#fff" d="M22.504,32.969c-1.591,0-2.504-0.932-2.504-2.556V26h1v4.413c0,1.076,0.464,1.556,1.504,1.556 c1.124,0,2.496-0.844,2.496-1.829V26h1v4.14C26,31.733,24.121,32.969,22.504,32.969z"></path><path fill="#fff" d="M33,33h-1v-5.005c0-0.992-0.525-1.495-1.562-1.495c-0.66,0-1.643,0.274-1.643,1.03h-1 c0-1.333,1.329-2.03,2.643-2.03c1.581,0,2.562,0.956,2.562,2.495V33z"></path><rect width="1" height="3" x="25" y="30" fill="#fff"></rect><path fill="#fff" d="M29.755,33.053c-1.285,0-2.255-0.99-2.255-2.303c0-1.537,1.625-2.012,2.932-2.395 c0.673-0.197,1.368-0.4,1.648-0.685l0.713,0.701c-0.463,0.47-1.249,0.7-2.081,0.943c-1.336,0.391-2.212,0.702-2.212,1.435 c0,0.755,0.527,1.303,1.255,1.303c1.059,0,1.765-0.369,2.291-1.196l0.844,0.536C32.18,32.51,31.154,33.053,29.755,33.053z"></path>
+</svg>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091304-3b3e278f-b249-497d-a020-c13cba259e53.png" alt="NextJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>&nbsp;        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092991-4c479dbd-e253-4bec-ba2c-598206a7848d.png" alt="clarity" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;
-  <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ---
