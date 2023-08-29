@@ -47,7 +47,8 @@
 
 <div>
   <img src="https://cdn.discordapp.com/attachments/1130246823152459897/1146231576728961034/icons8-lua-language-48.png" alt="C" width="40" height="40"/>&nbsp;
-  
+  <img src="https://cdn.discordapp.com/attachments/1130246823152459897/1146231752147353631/icons8-html-48.png" alt="C" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
