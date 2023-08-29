@@ -2,19 +2,19 @@
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Raphael aka oSheep/h2>
+<h2 align="center">Hi 👋, I'm Raphael aka oSheep /h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+oSheep's page%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
+- 👨‍💻 I am a LuaU coder and html coder.
 
-- 🔭 I’m currently working on **Intelli Kanban** & focusing on **DSA**
+- 🔭 I’m currently working on **Catware** & focusing on **Catware**
 
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+- 🌱 I’m currently developing and learning **LuaU, Html, and some other language as hobby.**
 
-- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
+- ⚡ Fun fact : **My GitHub codes = 100% Me** 
 
 --- 
 
