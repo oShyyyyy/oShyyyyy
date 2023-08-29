@@ -5,15 +5,10 @@
 <img align="right" alt="logo" width="400" src="https://cdn.discordapp.com/attachments/1130246823152459897/1146159479226900660/airflow-csgo.jpg")
 
 - 🔭 I’m currently working on [Catware](https://discord.gg/jPbeWfmKh6)
-
 - 🌱 I’m currently learning **luaU,Html**
-
 - 👨‍💻 All of my projects are available at [https://osheep.likes-femboys.lol](https://osheep.likes-femboys.lol)
-
 - 💬 Ask me about **luau**
-
 - 📫 How to reach me **osheep@likes-femboys.lol**
-
 - ⚡ Fun fact **I wanted to be a hacker lol**
 
 <h3 align="left">Connect with me:</h3>
