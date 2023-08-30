@@ -39,7 +39,7 @@
 * [Portfolio Site](https://osheep.likes-femboys.lol)
 
  
-<a href="https://github.com/oShyyyyy/projects/blob/main/list/list.txt"><kbd> <br> Veiw all of my projects <br> </kbd></a>
+<a href="https://github.com/oShyyyyy/projects/blob/main/list/list.txt"><kbd> <br> View all of my projects <br> </kbd></a>
 
 ---
 
