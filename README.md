@@ -83,17 +83,11 @@ Html         no time         █████▓░░░░░░░░░░░
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=osheep@likes-femboys.lol">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portfolio-de-aagam.netlify.app/">
+    <a href="https://osheep.likes-femboys.lol/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <a href="https://gl01.gitbook.io/gfg-editorials">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
     </a>
 </div>
 
