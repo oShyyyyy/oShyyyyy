@@ -1,4 +1,7 @@
 local module = {}
+function isInstanceOfClass(instance, className)
+    return instance.ClassName == className
+end
 
 local BlurCreator = script
 local RunService = game:GetService('RunService')
@@ -134,13 +137,14 @@ f.Name = frame.Name
 local parents = {}
 do
 	local function add(child)
-		if child:IsA'GuiObject' then
+		if isInstanceOfClass(child, 'GuiObject') then
 			parents[#parents + 1] = child
 			add(child.Parent)
 		end
 	end
 	add(frame)
 end
+
 
 local function UpdateOrientation(fetchProps)
 	local properties = {
