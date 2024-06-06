@@ -201,3 +201,4 @@ function module:ModifyFrame(frame, State)
 		Clone.Source = BlurCreator
 	end
 end
+return module
