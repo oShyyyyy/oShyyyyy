@@ -197,4 +197,3 @@ function module:ModifyFrame(frame, State)
 		Clone.Source = BlurCreator
 	end
 end
-module:ModifyFrame(mainFrame, "Blur")
