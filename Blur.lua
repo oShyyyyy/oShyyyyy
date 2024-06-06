@@ -1,3 +1,6 @@
+local module = {}
+
+local BlurCreator = script
 local RunService = game:GetService('RunService')
 local camera = workspace.CurrentCamera
 local MTREL = "Glass"
@@ -22,7 +25,7 @@ frame.Position = UDim2.new(0.5, 0, 0.5, 0)
 frame.AnchorPoint = Vector2.new(0.5, 0.5)
 frame.BackgroundTransparency = 1
 
-local GenUid; do -- Generate unique names for RenderStepped bindings
+local GenUid; do 
 	local id = 0
 	function GenUid()
 		id = id + 1
@@ -184,3 +187,14 @@ end
 
 UpdateOrientation(true)
 RunService:BindToRenderStep(uid, 2000, UpdateOrientation)
+
+
+function module:ModifyFrame(frame, State)
+	if State == "Blur" then
+		local Clone = Instance.new("LocalScript")
+		Clone.Parent = frame
+		Clone.Enabled = true
+		Clone.Source = BlurCreator
+	end
+end
+module:ModifyFrame(mainFrame, "Blur")
